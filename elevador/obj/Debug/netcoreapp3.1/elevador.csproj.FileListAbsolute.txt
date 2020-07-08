@@ -1,0 +1,15 @@
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.exe
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.deps.json
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.dll
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\elevador.pdb
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.dll
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.pdb
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.genruntimeconfig.cache
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\VINICIUS\Desktop\works\Elevador-Pesquisa\elevador\obj\Debug\netcoreapp3.1\elevador.csproj.CopyComplete

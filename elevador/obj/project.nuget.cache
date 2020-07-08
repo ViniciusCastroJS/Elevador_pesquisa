@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DP5KLxaQAeAATt01Zw+w626DVqpEgWHJpnGznqxZnNPf1xxqzEEyZIfj2MSB0S8GbhkKEdb4f+RfwqccBf/+2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VINICIUS\\Desktop\\works\\Elevador-Pesquisa\\elevador\\elevador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINICIUS\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
